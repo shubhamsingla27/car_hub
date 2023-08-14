@@ -24,7 +24,7 @@ const Button = ({
             <div className="relative w-6 h-6">
                 <Image
                     src={rightIcon}
-                    alt="arrow_left"
+                    alt="arrow_right"
                     fill
                     className="object-contain"
                 />
